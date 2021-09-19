@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there 👋, I'm Abu Sufian
+#### CSE Student
+![CSE Student](https://scontent.fdac3-1.fna.fbcdn.net/v/t1.6435-9/242033029_699575418107257_5910095503692488332_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeHRm38x0Nw_UnGHnUswbl7Lf5zvLEKUhpF_nO8sQpSGkXveMeLGJgchv2f4wNTbJ6lexLQhU51IBq20bVSBALVb&_nc_ohc=5TBJL4Qt5n4AX-jiiYM&_nc_ht=scontent.fdac3-1.fna&oh=dd5fdbc7b4826e7d1cc7dbd5f6892e65&oe=616C6BAB)
 
-<!--
-**abu-sufian-cse/abu-sufian-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Student.
+Currently, I'm pursing my final year Computer Science And  Engineering from Daffodil International University.I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
 
-Here are some ideas to get you started:
+Skills:  Html, CSS, C, Java, Python, 3D modeling, Photoshop, Illustrator,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on My Study 
+- 🌱 I’m currently learning Web development 
+- 👯 I’m looking to collaborate on Github 
+- 📫 How to reach me: Facebook, Linkedin 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abu-sufian-cse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abu-sufian-cse/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abusufiancse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/abusufian_sobuj/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/abu_sufian_cse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://l.facebook.com/l.php?u=https%3A%2F%2Fsites.google.com%2Fdiu.edu.bd%2Fabusufiansobuj%2F%3Ffbclid%3DIwAR3ZDFqgrnHvBwh-Alvlz_rAQ_5SOSiYlNgGH07dQaDWIacPe4Bfn_3RLzg&h=AT3-5adTcyO14eInu47Hq3GzF7d18TXdgKxBZ3T9s93Sw4jnpugjBo336hQUJkgXI3BaIp98w0d_p8Kv-YJHj22aF4Zl-3-CZf_PVKR86r8LeU0E-WydMM-psR6AYxH_H6OgjQ)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abu-sufian-cse)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abu-sufian-cse)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abu-sufian-cse&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abu-sufian-cse)  
+
+![Profile views](https://gpvc.arturio.dev/abu-sufian-cse)  
