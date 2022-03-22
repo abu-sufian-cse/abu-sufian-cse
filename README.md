@@ -1,4 +1,4 @@
-![CSE Student](https://scontent.fdac3-1.fna.fbcdn.net/v/t1.6435-9/242033029_699575418107257_5910095503692488332_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeHRm38x0Nw_UnGHnUswbl7Lf5zvLEKUhpF_nO8sQpSGkXveMeLGJgchv2f4wNTbJ6lexLQhU51IBq20bVSBALVb&_nc_ohc=5TBJL4Qt5n4AX-jiiYM&_nc_ht=scontent.fdac3-1.fna&oh=dd5fdbc7b4826e7d1cc7dbd5f6892e65&oe=616C6BAB)
+![CSE Student](https://www.facebook.com/photo/?fbid=765239048207560&set=a.102039547860850)
 ### Hi there 👋, I'm Abu Sufian
 #### CSE Student
 Currently, I'm pursing my final year Computer Science And  Engineering from Daffodil International University.I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
