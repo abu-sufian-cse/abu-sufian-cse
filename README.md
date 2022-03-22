@@ -1,4 +1,4 @@
-![CSE Student](https://www.facebook.com/photo/?fbid=765239048207560&set=a.102039547860850)
+![CSE Student](https://drive.google.com/file/d/1cTHjDmbzBWfWcOijEpCnPnHXgrZoBxBM/view?usp=sharing)
 ### Hi there 👋, I'm Abu Sufian
 #### CSE Student
 Currently, I'm pursing my final year Computer Science And  Engineering from Daffodil International University.I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
